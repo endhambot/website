@@ -108,6 +108,9 @@ section {
 
       &.dropdown:hover {
         color: $medium-grey;
+        
+        .dropdown-menu {
+          display: block;
       }
     }
   }
